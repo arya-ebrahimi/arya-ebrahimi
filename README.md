@@ -1,2 +1,2 @@
-![](assets/hopper1500.gif)|![](assets/lunar.gif)|<img src="assets/out.gif" width=400/>
+![](assets/hopper1500.gif)|![](assets/lunar.gif)|![](assets/out1.gif)
 :-:|:-:|:-
